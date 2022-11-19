@@ -1,0 +1,13 @@
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\bin\Debug\wordpad.exe.config
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\bin\Debug\wordpad.exe
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\bin\Debug\wordpad.pdb
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.csproj.GenerateResource.cache
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.exe
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.pdb
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.Wordpad.resources
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.Finder.resources
+C:\Users\User\Documents\2ci kurs\c#\wordpad\wordpad\obj\Debug\wordpad.Replace.resources
